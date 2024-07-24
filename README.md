@@ -17,7 +17,8 @@
 
 
 # **About Project and Branches**
-  **CHATBOT**
+  >> **CHATBOT**
+  
 The demand for automation has grown, with chatbots improving efficiency and productivity by
 handling repetitive tasks and providing 24/7 support. This enhances user satisfaction in customer service, healthcare, and e-commerce. However, developing advanced chatbots is challenging due to
 the complexity of human language, requiring sophisticated natural language processing (NLP) and substantial computational resources. Maintaining conversation context and preventing biases from
