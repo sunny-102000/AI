@@ -1,18 +1,15 @@
-# AI
- # **SOFTWARE POINTS - 10**
+# **AI-CHATBOT**
 >>INDEX
 >1. [About Project and Branches](#about-project-and-branches)
->2. [UML DIAGRAMS](#uml-diagrams)
->3. [PROJECT REQUIREMENTS](#project-requirements)
->4. [Analysis](#analysis)
->5. [DDD-Domain Driven Design](#ddd-domain-driven-design)
->6. [Metrics](#metrics)
->7. [CCD-Clean Code Development](#ccd-clean-code-development)
->8. [Build Management](#build-management)
->9. [Unit Tests](#unit-tests)
->10. [IDE-Integrated Development Environment](#ide-integrated-development-environment)
->11. [Functional Programming](#functional-programming)
->+ [GIT COMMIT HISTORY](#git-commit-history)
+>2. [PROJECT REQUIREMENTS](#project-requirements)
+>3. [Analysis](#analysis)
+>4. [DDD-Domain Driven Design](#ddd-domain-driven-design)
+>5. [Metrics](#metrics)
+>6. [CCD-Clean Code Development](#ccd-clean-code-development)
+>7. [Build Management](#build-management)
+>8. [Unit Tests](#unit-tests)
+>9. [IDE-Integrated Development Environment](#ide-integrated-development-environment)
+>10.   [GIT COMMIT HISTORY](#git-commit-history)
 
 
 
