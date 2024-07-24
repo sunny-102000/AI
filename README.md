@@ -46,15 +46,14 @@ chatbot can provide relevant and coherent responses.
 effective.
 
    + [Trello standard](https://trello.com/invite/b/wsOhXSYk/ATTIf94b02cf64e3d07b4bba4bd20388c9f2C9B9C9B9/online-playground-booking)
-   + [Jira commercial](https://playgroundbooking.atlassian.net/jira/software/projects/OPB/boards/1)
-   + [Screenshot trello and jira](https://github.com/sunny-102000/Playground-Booking-System/tree/main/Project%20requirements)
 ![Screenshot (165)](https://github.com/user-attachments/assets/be43e3fb-386d-487c-9827-455a705f00d4)
 
 
 
 
 # **Analysis**
- [ANALYSIS CHECKLIST.pdf](https://github.com/user-attachments/files/16367554/ANALYSIS.CHECKLIST.pdf)
+![ANALYSIS CHECKLIST_page-0001](https://github.com/user-attachments/assets/a9ec2363-4125-4fee-87ba-002d2455e3d9)
+
 
 
 # **DDD-Domain Driven Design**
