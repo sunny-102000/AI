@@ -17,8 +17,11 @@
 
 
 # **About Project and Branches**
-  **PLAYGROUND BOOKING**
-The Playground Booking, is a software helps to book various kind of playgrounds for corresponding sports to the people or the organizations. I want to build some codes that is user friendly and help or improvize safety and security to the messages that one can send to others as a confirmation.
+  **CHATBOT**
+The demand for automation has grown, with chatbots improving efficiency and productivity by
+handling repetitive tasks and providing 24/7 support. This enhances user satisfaction in customer service, healthcare, and e-commerce. However, developing advanced chatbots is challenging due to
+the complexity of human language, requiring sophisticated natural language processing (NLP) and substantial computational resources. Maintaining conversation context and preventing biases from
+training data are crucial, underscoring the need for continuous research and innovation in this field.
 >> Method 
 + Im gonna use Python, for developing the codes and *GUI-Graphic User Interface* in it to look good and user friendly.
 + Using Visual studio as IDE and coressponded compliers.
@@ -30,23 +33,17 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 
 
-# **UML DIAGRAMS**
-  + i used the *draw.io* for generating/draw the UML diagrams. My experience while using it is simple and have lots of tools inside the application.
-  + And also i used *plant.txt* for generating 
->>[Activity UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/Activity%20uml%20diagram.png)
-+ The activity can be described as an operation of the system.
-
->>[Component UML Diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/component%20diagram.png)
-+ They are used to illustrate the structure of arbitrarily complex systems.
-
->>[Class UML Diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/class%20UML%20diagram.png)
-+ Describes the structure of a system by showing the system's classes, their attributes, operations, and the relationships among objects.
-
->>[use case UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/use%20case%20diagram.png)
-+ It provides a formal mechanism for arrying out a requirement analysis with active participation from domain experts and users who may or may not be software savvy.
 
 
 # **PROJECT REQUIREMENTS**
+To develop a chatbot, we are following simple and straightforward approach:
+- Utilize powerful language models like GPT-4 or BERT, which are known for their excellent
+language understanding and response generation.
+- Implement a system to remember previous interactions during a conversation, ensuring the
+chatbot can provide relevant and coherent responses.
+- Regularly update the chatbot with new data and user feedback to keep it up-to-date and
+effective.
+
    + [Trello standard](https://trello.com/invite/b/wsOhXSYk/ATTIf94b02cf64e3d07b4bba4bd20388c9f2C9B9C9B9/online-playground-booking)
    + [Jira commercial](https://playgroundbooking.atlassian.net/jira/software/projects/OPB/boards/1)
    + [Screenshot trello and jira](https://github.com/sunny-102000/Playground-Booking-System/tree/main/Project%20requirements)
